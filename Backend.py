@@ -1,0 +1,5 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+yt-dlp==2024.3.10
+httpx==0.26.0
+pydantic==2.5.3

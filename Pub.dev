@@ -1,0 +1,31 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  # State Management
+  flutter_bloc: ^8.1.3
+  # Networking
+  dio: ^5.4.0
+  # Background Services
+  flutter_background_service: ^5.0.5
+  flutter_local_notifications: ^17.0.0
+  # Clipboard
+  clipboard_watcher: ^0.2.0   # custom fork for Android 10+ background
+  # Download Engine
+  flutter_downloader: ^1.11.6
+  permission_handler: ^11.1.0
+  # UI
+  glassmorphism: ^3.0.0
+  shimmer: ^3.0.0
+  lottie: ^2.7.0
+  # Media Player
+  video_player: ^2.8.2
+  just_audio: ^0.9.36
+  # Database
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  # File Management
+  path_provider: ^2.1.2
+  open_file: ^3.3.2
+  # Platform Utils
+  device_info_plus: ^9.1.1
+  package_info_plus: ^5.0.1
